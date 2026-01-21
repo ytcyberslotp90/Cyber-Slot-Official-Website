@@ -82,11 +82,17 @@
       box-shadow: 0 0 20px #0f0;
     }
 
+
     .section h2 {
       color: #0f0;
       text-shadow: 0 0 10px #0f0;
       margin-bottom: 15px;
     }
+
+    .section p {
+    margin-bottom: 12px;
+    }
+
 
     ul {
       list-style: none;
