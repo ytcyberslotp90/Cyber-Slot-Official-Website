@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://csp90.pages.dev/sitemap.xml
